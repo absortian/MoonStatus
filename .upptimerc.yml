@@ -12,6 +12,15 @@ sites:
   - name: MundoAllstar
     url: https://mundoallstar.com/
     icon: https://eu2.contabostorage.com/68e1ac55689b4b99a9a2ccd407d95b2a:branding-absor/logos/logo_transparent_little_white.png
+  - name: NoVayasDescalzo
+    url: https://novayasdescalzo.com/
+    icon: https://eu2.contabostorage.com/68e1ac55689b4b99a9a2ccd407d95b2a:branding-absor/logos/logo_transparent_little_white.png
+  - name: UrbanKingStore
+    url: https://urbankingstore.com/
+    icon: https://eu2.contabostorage.com/68e1ac55689b4b99a9a2ccd407d95b2a:branding-absor/logos/logo_transparent_little_white.png
+  - name: TheFootPlanet
+    url: https://thefootplanet.com/
+    icon: https://eu2.contabostorage.com/68e1ac55689b4b99a9a2ccd407d95b2a:branding-absor/logos/logo_transparent_little_white.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
