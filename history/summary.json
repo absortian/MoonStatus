@@ -4,36 +4,40 @@
     "url": "https://purpleshopweb.com/",
     "icon": "https://purpleshopweb.com/img/favicon.ico",
     "slug": "purple-shop-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2758,
-    "timeDay": 1134,
-    "timeWeek": 3763,
-    "timeMonth": 2758,
-    "timeYear": 2758,
-    "dailyMinutesDown": {}
+    "time": 2922,
+    "timeDay": 3172,
+    "timeWeek": 3907,
+    "timeMonth": 2922,
+    "timeYear": 2922,
+    "dailyMinutesDown": {
+      "2023-10-30": 0
+    }
   },
   {
     "name": "FlowZapas",
     "url": "https://flowzapas.com/",
     "icon": "https://flowzapas.com/img/favicon.ico",
     "slug": "flow-zapas",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 912,
-    "timeDay": 1033,
-    "timeWeek": 885,
-    "timeMonth": 912,
-    "timeYear": 912,
-    "dailyMinutesDown": {}
+    "time": 890,
+    "timeDay": 804,
+    "timeWeek": 854,
+    "timeMonth": 890,
+    "timeYear": 890,
+    "dailyMinutesDown": {
+      "2023-10-30": 0
+    }
   },
   {
     "name": "MundoAllstar",
