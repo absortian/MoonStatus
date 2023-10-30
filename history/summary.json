@@ -4,19 +4,19 @@
     "url": "https://purpleshopweb.com/",
     "icon": "https://purpleshopweb.com/img/favicon.ico",
     "slug": "purple-shop-web",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2922,
-    "timeDay": 3172,
-    "timeWeek": 3907,
-    "timeMonth": 2922,
-    "timeYear": 2922,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 2795,
+    "timeDay": 2414,
+    "timeWeek": 3634,
+    "timeMonth": 2795,
+    "timeYear": 2795,
     "dailyMinutesDown": {
-      "2023-10-30": 0
+      "2023-10-30": 8
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://flowzapas.com/",
     "icon": "https://flowzapas.com/img/favicon.ico",
     "slug": "flow-zapas",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 890,
-    "timeDay": 804,
-    "timeWeek": 854,
-    "timeMonth": 890,
-    "timeYear": 890,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 878,
+    "timeDay": 772,
+    "timeWeek": 841,
+    "timeMonth": 878,
+    "timeYear": 878,
     "dailyMinutesDown": {
-      "2023-10-30": 0
+      "2023-10-30": 8
     }
   },
   {
