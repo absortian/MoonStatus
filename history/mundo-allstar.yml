@@ -1,7 +1,7 @@
 url: https://mundoallstar.com/
-status: up
-code: 200
-responseTime: 1137
-lastUpdated: 2023-10-31T23:06:34.006Z
+status: down
+code: 500
+responseTime: 620
+lastUpdated: 2023-11-01T16:52:52.744Z
 startTime: 2023-10-22T18:18:39.657Z
 generator: Upptime <https://github.com/upptime/upptime>
