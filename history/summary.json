@@ -5,19 +5,17 @@
     "icon": "https://purpleshopweb.com/img/favicon.ico",
     "slug": "purple-shop-web",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1901,
-    "timeDay": 1439,
-    "timeWeek": 1135,
-    "timeMonth": 1901,
-    "timeYear": 1901,
-    "dailyMinutesDown": {
-      "2023-11-18": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1923,
+    "timeDay": 2208,
+    "timeWeek": 1356,
+    "timeMonth": 1923,
+    "timeYear": 1923,
+    "dailyMinutesDown": {}
   },
   {
     "name": "FlowZapas",
@@ -25,19 +23,17 @@
     "icon": "https://flowzapas.com/img/favicon.ico",
     "slug": "flow-zapas",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 854,
-    "timeDay": 656,
-    "timeWeek": 741,
-    "timeMonth": 854,
-    "timeYear": 854,
-    "dailyMinutesDown": {
-      "2023-11-18": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 874,
+    "timeDay": 980,
+    "timeWeek": 829,
+    "timeMonth": 874,
+    "timeYear": 874,
+    "dailyMinutesDown": {}
   },
   {
     "name": "MundoAllstar",
@@ -45,19 +41,17 @@
     "icon": "https://mundoallstar.com/img/favicon.ico",
     "slug": "mundo-allstar",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1022,
-    "timeDay": 1007,
-    "timeWeek": 983,
-    "timeMonth": 1022,
-    "timeYear": 1022,
-    "dailyMinutesDown": {
-      "2023-11-18": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1090,
+    "timeDay": 1852,
+    "timeWeek": 1264,
+    "timeMonth": 1090,
+    "timeYear": 1090,
+    "dailyMinutesDown": {}
   },
   {
     "name": "NoVayasDescalzo",
@@ -65,19 +59,17 @@
     "icon": "https://novayasdescalzo.com/img/favicon.ico",
     "slug": "no-vayas-descalzo",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1172,
-    "timeDay": 1015,
-    "timeWeek": 1094,
-    "timeMonth": 1172,
-    "timeYear": 1172,
-    "dailyMinutesDown": {
-      "2023-11-18": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1234,
+    "timeDay": 1670,
+    "timeWeek": 1322,
+    "timeMonth": 1234,
+    "timeYear": 1234,
+    "dailyMinutesDown": {}
   },
   {
     "name": "UrbanKingStore",
@@ -85,19 +77,17 @@
     "icon": "https://urbankingstore.com/img/favicon.ico",
     "slug": "urban-king-store",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 929,
-    "timeDay": 795,
-    "timeWeek": 794,
-    "timeMonth": 929,
-    "timeYear": 929,
-    "dailyMinutesDown": {
-      "2023-11-18": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 950,
+    "timeDay": 996,
+    "timeWeek": 882,
+    "timeMonth": 950,
+    "timeYear": 950,
+    "dailyMinutesDown": {}
   },
   {
     "name": "TheFootPlanet",
@@ -110,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2200,
-    "timeDay": 6407,
-    "timeWeek": 2743,
-    "timeMonth": 2200,
-    "timeYear": 2200,
+    "time": 2215,
+    "timeDay": 2673,
+    "timeWeek": 2828,
+    "timeMonth": 2215,
+    "timeYear": 2215,
     "dailyMinutesDown": {}
   }
 ]
