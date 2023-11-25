@@ -5,19 +5,17 @@
     "icon": "https://purpleshopweb.com/img/favicon.ico",
     "slug": "purple-shop-web",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1909,
-    "timeDay": 1480,
-    "timeWeek": 1846,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1889,
+    "timeDay": 1463,
+    "timeWeek": 1817,
     "timeMonth": 2046,
-    "timeYear": 1909,
-    "dailyMinutesDown": {
-      "2023-11-24": 7
-    }
+    "timeYear": 1889,
+    "dailyMinutesDown": {}
   },
   {
     "name": "FlowZapas",
@@ -25,19 +23,17 @@
     "icon": "https://flowzapas.com/img/favicon.ico",
     "slug": "flow-zapas",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 852,
-    "timeDay": 710,
-    "timeWeek": 796,
-    "timeMonth": 834,
-    "timeYear": 852,
-    "dailyMinutesDown": {
-      "2023-11-24": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 847,
+    "timeDay": 651,
+    "timeWeek": 788,
+    "timeMonth": 830,
+    "timeYear": 847,
+    "dailyMinutesDown": {}
   },
   {
     "name": "MundoAllstar",
@@ -45,19 +41,17 @@
     "icon": "https://mundoallstar.com/img/favicon.ico",
     "slug": "mundo-allstar",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1128,
-    "timeDay": 1186,
-    "timeWeek": 1386,
-    "timeMonth": 1149,
-    "timeYear": 1128,
-    "dailyMinutesDown": {
-      "2023-11-24": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1122,
+    "timeDay": 1176,
+    "timeWeek": 1379,
+    "timeMonth": 1148,
+    "timeYear": 1122,
+    "dailyMinutesDown": {}
   },
   {
     "name": "NoVayasDescalzo",
@@ -70,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1250,
-    "timeDay": 1022,
+    "time": 1248,
+    "timeDay": 1084,
     "timeWeek": 1405,
-    "timeMonth": 1259,
-    "timeYear": 1250,
+    "timeMonth": 1263,
+    "timeYear": 1248,
     "dailyMinutesDown": {}
   },
   {
@@ -88,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 924,
-    "timeDay": 767,
-    "timeWeek": 873,
-    "timeMonth": 915,
-    "timeYear": 924,
+    "time": 921,
+    "timeDay": 759,
+    "timeWeek": 856,
+    "timeMonth": 914,
+    "timeYear": 921,
     "dailyMinutesDown": {}
   },
   {
@@ -106,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2329,
-    "timeDay": 2470,
-    "timeWeek": 3448,
-    "timeMonth": 2391,
-    "timeYear": 2329,
+    "time": 2326,
+    "timeDay": 2207,
+    "timeWeek": 2848,
+    "timeMonth": 2406,
+    "timeYear": 2326,
     "dailyMinutesDown": {}
   }
 ]
