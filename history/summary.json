@@ -5,19 +5,17 @@
     "icon": "https://purpleshopweb.com/img/favicon.ico",
     "slug": "purple-shop-web",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 1872,
-    "timeDay": 1454,
-    "timeWeek": 1666,
-    "timeMonth": 2039,
-    "timeYear": 1872,
-    "dailyMinutesDown": {
-      "2023-11-26": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1853,
+    "timeDay": 1174,
+    "timeWeek": 1645,
+    "timeMonth": 2037,
+    "timeYear": 1853,
+    "dailyMinutesDown": {}
   },
   {
     "name": "FlowZapas",
@@ -25,19 +23,17 @@
     "icon": "https://flowzapas.com/img/favicon.ico",
     "slug": "flow-zapas",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 844,
-    "timeDay": 775,
-    "timeWeek": 734,
-    "timeMonth": 823,
-    "timeYear": 844,
-    "dailyMinutesDown": {
-      "2023-11-26": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 840,
+    "timeDay": 717,
+    "timeWeek": 702,
+    "timeMonth": 819,
+    "timeYear": 840,
+    "dailyMinutesDown": {}
   },
   {
     "name": "MundoAllstar",
@@ -45,19 +41,17 @@
     "icon": "https://mundoallstar.com/img/favicon.ico",
     "slug": "mundo-allstar",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 1110,
-    "timeDay": 915,
-    "timeWeek": 1163,
-    "timeMonth": 1130,
-    "timeYear": 1110,
-    "dailyMinutesDown": {
-      "2023-11-26": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1103,
+    "timeDay": 849,
+    "timeWeek": 1142,
+    "timeMonth": 1129,
+    "timeYear": 1103,
+    "dailyMinutesDown": {}
   },
   {
     "name": "NoVayasDescalzo",
@@ -65,19 +59,17 @@
     "icon": "https://novayasdescalzo.com/img/favicon.ico",
     "slug": "no-vayas-descalzo",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 1235,
-    "timeDay": 1058,
-    "timeWeek": 1238,
-    "timeMonth": 1243,
-    "timeYear": 1235,
-    "dailyMinutesDown": {
-      "2023-11-26": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1228,
+    "timeDay": 927,
+    "timeWeek": 1186,
+    "timeMonth": 1241,
+    "timeYear": 1228,
+    "dailyMinutesDown": {}
   },
   {
     "name": "UrbanKingStore",
@@ -85,19 +77,17 @@
     "icon": "https://urbankingstore.com/img/favicon.ico",
     "slug": "urban-king-store",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 909,
-    "timeDay": 747,
-    "timeWeek": 789,
-    "timeMonth": 894,
-    "timeYear": 909,
-    "dailyMinutesDown": {
-      "2023-11-26": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 905,
+    "timeDay": 684,
+    "timeWeek": 785,
+    "timeMonth": 887,
+    "timeYear": 905,
+    "dailyMinutesDown": {}
   },
   {
     "name": "TheFootPlanet",
@@ -105,18 +95,16 @@
     "icon": "https://thefootplanet.com/wp-content/uploads/2023/05/FAVICON-300x299.png",
     "slug": "the-foot-planet",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 2325,
-    "timeDay": 2312,
-    "timeWeek": 2689,
-    "timeMonth": 2405,
-    "timeYear": 2325,
-    "dailyMinutesDown": {
-      "2023-11-26": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2316,
+    "timeDay": 2159,
+    "timeWeek": 2522,
+    "timeMonth": 2401,
+    "timeYear": 2316,
+    "dailyMinutesDown": {}
   }
 ]
