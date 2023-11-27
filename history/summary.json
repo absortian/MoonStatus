@@ -58,19 +58,19 @@
     "url": "https://novayasdescalzo.com/",
     "icon": "https://novayasdescalzo.com/img/favicon.ico",
     "slug": "no-vayas-descalzo",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1228,
-    "timeDay": 923,
-    "timeWeek": 1186,
-    "timeMonth": 1241,
-    "timeYear": 1228,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1232,
+    "timeDay": 1167,
+    "timeWeek": 1205,
+    "timeMonth": 1245,
+    "timeYear": 1232,
     "dailyMinutesDown": {
-      "2023-11-27": 1
+      "2023-11-27": 6
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "https://urbankingstore.com/",
     "icon": "https://urbankingstore.com/img/favicon.ico",
     "slug": "urban-king-store",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 905,
-    "timeDay": 736,
-    "timeWeek": 785,
-    "timeMonth": 887,
-    "timeYear": 905,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 906,
+    "timeDay": 839,
+    "timeWeek": 798,
+    "timeMonth": 889,
+    "timeYear": 906,
     "dailyMinutesDown": {
-      "2023-11-27": 0
+      "2023-11-27": 5
     }
   },
   {
@@ -98,19 +98,19 @@
     "url": "https://thefootplanet.com/",
     "icon": "https://thefootplanet.com/wp-content/uploads/2023/05/FAVICON-300x299.png",
     "slug": "the-foot-planet",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2269,
-    "timeDay": 1193,
-    "timeWeek": 2310,
-    "timeMonth": 2342,
-    "timeYear": 2269,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 2281,
+    "timeDay": 1710,
+    "timeWeek": 2349,
+    "timeMonth": 2354,
+    "timeYear": 2281,
     "dailyMinutesDown": {
-      "2023-11-27": 0
+      "2023-11-27": 5
     }
   }
 ]
