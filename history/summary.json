@@ -5,18 +5,18 @@
     "icon": "https://purpleshopweb.com/img/favicon.ico",
     "slug": "purple-shop-web",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1867,
-    "timeDay": 2222,
-    "timeWeek": 1787,
-    "timeMonth": 1522,
-    "timeYear": 1867,
+    "uptime": "99.99%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1856,
+    "timeDay": 1905,
+    "timeWeek": 1744,
+    "timeMonth": 1516,
+    "timeYear": 1856,
     "dailyMinutesDown": {
-      "2023-11-28": 0
+      "2023-11-28": 8
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://flowzapas.com/",
     "icon": "https://flowzapas.com/img/favicon.ico",
     "slug": "flow-zapas",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 830,
-    "timeDay": 647,
-    "timeWeek": 696,
-    "timeMonth": 807,
-    "timeYear": 830,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 828,
+    "timeDay": 672,
+    "timeWeek": 700,
+    "timeMonth": 805,
+    "timeYear": 828,
     "dailyMinutesDown": {
-      "2023-11-28": 0
+      "2023-11-28": 8
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://mundoallstar.com/",
     "icon": "https://mundoallstar.com/img/favicon.ico",
     "slug": "mundo-allstar",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1134,
-    "timeDay": 1519,
-    "timeWeek": 1237,
-    "timeMonth": 1162,
-    "timeYear": 1134,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1132,
+    "timeDay": 1424,
+    "timeWeek": 1226,
+    "timeMonth": 1160,
+    "timeYear": 1132,
     "dailyMinutesDown": {
-      "2023-11-28": 0
+      "2023-11-28": 8
     }
   },
   {
