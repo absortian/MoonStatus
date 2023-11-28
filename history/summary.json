@@ -5,18 +5,18 @@
     "icon": "https://purpleshopweb.com/img/favicon.ico",
     "slug": "purple-shop-web",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1867,
     "timeDay": 2222,
     "timeWeek": 1787,
     "timeMonth": 1522,
     "timeYear": 1867,
     "dailyMinutesDown": {
-      "2023-11-28": 6
+      "2023-11-28": 0
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://flowzapas.com/",
     "icon": "https://flowzapas.com/img/favicon.ico",
     "slug": "flow-zapas",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 837,
-    "timeDay": 749,
-    "timeWeek": 717,
-    "timeMonth": 815,
-    "timeYear": 837,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 830,
+    "timeDay": 647,
+    "timeWeek": 696,
+    "timeMonth": 807,
+    "timeYear": 830,
     "dailyMinutesDown": {
-      "2023-11-28": 6
+      "2023-11-28": 0
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://mundoallstar.com/",
     "icon": "https://mundoallstar.com/img/favicon.ico",
     "slug": "mundo-allstar",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1142,
-    "timeDay": 1787,
-    "timeWeek": 1272,
-    "timeMonth": 1173,
-    "timeYear": 1142,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1134,
+    "timeDay": 1519,
+    "timeWeek": 1237,
+    "timeMonth": 1162,
+    "timeYear": 1134,
     "dailyMinutesDown": {
-      "2023-11-28": 6
+      "2023-11-28": 0
     }
   },
   {
@@ -65,19 +65,17 @@
     "icon": "https://novayasdescalzo.com/img/favicon.ico",
     "slug": "no-vayas-descalzo",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1300,
     "timeDay": 2329,
     "timeWeek": 1442,
     "timeMonth": 1322,
     "timeYear": 1300,
-    "dailyMinutesDown": {
-      "2023-11-28": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "UrbanKingStore",
@@ -85,19 +83,17 @@
     "icon": "https://urbankingstore.com/img/favicon.ico",
     "slug": "urban-king-store",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 901,
     "timeDay": 827,
     "timeWeek": 798,
     "timeMonth": 880,
     "timeYear": 901,
-    "dailyMinutesDown": {
-      "2023-11-28": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "TheFootPlanet",
