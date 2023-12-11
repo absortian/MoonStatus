@@ -5,19 +5,17 @@
     "icon": "https://purpleshopweb.com/img/favicon.ico",
     "slug": "purple-shop-web",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 1977,
-    "timeDay": 7135,
-    "timeWeek": 3150,
-    "timeMonth": 1853,
-    "timeYear": 1977,
-    "dailyMinutesDown": {
-      "2023-12-10": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1964,
+    "timeDay": 7063,
+    "timeWeek": 3156,
+    "timeMonth": 1854,
+    "timeYear": 1964,
+    "dailyMinutesDown": {}
   },
   {
     "name": "FlowZapas",
@@ -25,19 +23,17 @@
     "icon": "https://flowzapas.com/img/favicon.ico",
     "slug": "flow-zapas",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 809,
-    "timeDay": 709,
-    "timeWeek": 737,
-    "timeMonth": 753,
-    "timeYear": 809,
-    "dailyMinutesDown": {
-      "2023-12-10": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 806,
+    "timeDay": 624,
+    "timeWeek": 736,
+    "timeMonth": 745,
+    "timeYear": 806,
+    "dailyMinutesDown": {}
   },
   {
     "name": "MundoAllstar",
@@ -50,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1142,
-    "timeDay": 1141,
-    "timeWeek": 1306,
-    "timeMonth": 1226,
-    "timeYear": 1142,
+    "time": 1139,
+    "timeDay": 971,
+    "timeWeek": 1297,
+    "timeMonth": 1204,
+    "timeYear": 1139,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1297,
-    "timeDay": 1594,
-    "timeWeek": 1334,
+    "time": 1293,
+    "timeDay": 1031,
+    "timeWeek": 1319,
     "timeMonth": 1343,
-    "timeYear": 1297,
+    "timeYear": 1293,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 901,
-    "timeDay": 965,
-    "timeWeek": 909,
-    "timeMonth": 851,
-    "timeYear": 901,
+    "time": 900,
+    "timeDay": 871,
+    "timeWeek": 929,
+    "timeMonth": 853,
+    "timeYear": 900,
     "dailyMinutesDown": {}
   },
   {
@@ -104,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2700,
-    "timeDay": 2383,
-    "timeWeek": 2631,
-    "timeMonth": 3077,
-    "timeYear": 2700,
+    "time": 2687,
+    "timeDay": 1945,
+    "timeWeek": 2633,
+    "timeMonth": 3070,
+    "timeYear": 2687,
     "dailyMinutesDown": {}
   }
 ]
