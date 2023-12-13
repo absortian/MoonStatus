@@ -40,10 +40,10 @@
     "url": "https://mundoallstar.com/",
     "icon": "https://mundoallstar.com/img/favicon.ico",
     "slug": "mundo-allstar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1136,
@@ -51,7 +51,9 @@
     "timeWeek": 1326,
     "timeMonth": 1205,
     "timeYear": 1136,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-13": 1
+    }
   },
   {
     "name": "NoVayasDescalzo",
