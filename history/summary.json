@@ -4,10 +4,10 @@
     "url": "https://purpleshopweb.com/",
     "icon": "https://purpleshopweb.com/img/favicon.ico",
     "slug": "purple-shop-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1442,
@@ -15,7 +15,9 @@
     "timeWeek": 1146,
     "timeMonth": 1559,
     "timeYear": 1442,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-18": 1
+    }
   },
   {
     "name": "FlowZapas",
