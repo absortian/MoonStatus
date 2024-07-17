@@ -44,7 +44,7 @@
     "url": "https://thefootplanet.com/",
     "icon": "https://thefootplanet.com/wp-content/uploads/2023/05/FAVICON-300x299.png",
     "slug": "the-foot-planet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -56,6 +56,7 @@
     "timeMonth": 5049,
     "timeYear": 2770,
     "dailyMinutesDown": {
+      "2024-07-17": 0,
       "2024-06-19": 35
     }
   }
