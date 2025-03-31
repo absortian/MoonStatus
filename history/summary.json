@@ -46,16 +46,16 @@
     "url": "https://thefootplanet.com/",
     "icon": "https://thefootplanet.com/wp-content/uploads/2023/05/FAVICON-300x299.png",
     "slug": "the-foot-planet",
-    "status": "up",
+    "status": "down",
     "uptime": "98.51%",
-    "uptimeDay": "43.22%",
-    "uptimeWeek": "31.48%",
-    "uptimeMonth": "74.27%",
+    "uptimeDay": "43.59%",
+    "uptimeWeek": "31.64%",
+    "uptimeMonth": "74.34%",
     "uptimeYear": "97.86%",
-    "time": 1291,
-    "timeDay": 1017,
-    "timeWeek": 1024,
-    "timeMonth": 979,
+    "time": 1290,
+    "timeDay": 986,
+    "timeWeek": 1020,
+    "timeMonth": 977,
     "timeYear": 1119,
     "dailyMinutesDown": {
       "2025-03-31": 320,
@@ -69,7 +69,7 @@
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 804,
-      "2025-03-20": 346
+      "2025-03-20": 312
     }
   }
 ]
