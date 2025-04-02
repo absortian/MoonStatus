@@ -10,15 +10,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1267,
-    "timeDay": 745,
-    "timeWeek": 1092,
-    "timeMonth": 1091,
-    "timeYear": 1263,
+    "time": 1265,
+    "timeDay": 797,
+    "timeWeek": 996,
+    "timeMonth": 1073,
+    "timeYear": 1262,
     "dailyMinutesDown": {
       "2025-01-05": 91,
-      "2024-11-18": 28,
-      "2024-04-02": 40
+      "2024-11-18": 28
     }
   },
   {
@@ -32,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 797,
-    "timeDay": 507,
-    "timeWeek": 672,
-    "timeMonth": 658,
-    "timeYear": 769,
+    "time": 796,
+    "timeDay": 542,
+    "timeWeek": 625,
+    "timeMonth": 648,
+    "timeYear": 768,
     "dailyMinutesDown": {
       "2024-11-18": 64
     }
@@ -48,24 +47,24 @@
     "slug": "the-foot-planet",
     "status": "up",
     "uptime": "99.32%",
-    "uptimeDay": "77.61%",
-    "uptimeWeek": "49.01%",
-    "uptimeMonth": "88.27%",
-    "uptimeYear": "99.02%",
-    "time": 1282,
-    "timeDay": 1126,
-    "timeWeek": 1036,
-    "timeMonth": 989,
+    "uptimeDay": "85.45%",
+    "uptimeWeek": "50.23%",
+    "uptimeMonth": "88.16%",
+    "uptimeYear": "99.01%",
+    "time": 1283,
+    "timeDay": 1029,
+    "timeWeek": 1042,
+    "timeMonth": 992,
     "timeYear": 1115,
     "dailyMinutesDown": {
-      "2025-04-01": 301,
+      "2025-04-01": 293,
       "2025-03-31": 766,
       "2025-03-30": 668,
       "2025-03-29": 635,
       "2025-03-28": 884,
       "2025-03-27": 721,
       "2025-03-26": 1152,
-      "2025-03-25": 12
+      "2025-03-25": 69
     }
   }
 ]
