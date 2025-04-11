@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1259,
-    "timeDay": 783,
-    "timeWeek": 909,
-    "timeMonth": 1027,
+    "time": 1258,
+    "timeDay": 946,
+    "timeWeek": 912,
+    "timeMonth": 1030,
     "timeYear": 1257,
     "dailyMinutesDown": {
       "2025-01-05": 91,
@@ -31,10 +31,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 792,
-    "timeDay": 530,
-    "timeWeek": 602,
-    "timeMonth": 631,
+    "time": 791,
+    "timeDay": 618,
+    "timeWeek": 608,
+    "timeMonth": 635,
     "timeYear": 764,
     "dailyMinutesDown": {
       "2024-11-18": 64
@@ -46,18 +46,18 @@
     "icon": "https://thefootplanet.com/wp-content/uploads/2023/05/FAVICON-300x299.png",
     "slug": "the-foot-planet",
     "status": "up",
-    "uptime": "99.51%",
-    "uptimeDay": "85.15%",
-    "uptimeWeek": "88.33%",
-    "uptimeMonth": "91.35%",
-    "uptimeYear": "99.28%",
+    "uptime": "99.50%",
+    "uptimeDay": "95.47%",
+    "uptimeWeek": "88.82%",
+    "uptimeMonth": "91.13%",
+    "uptimeYear": "99.26%",
     "time": 1240,
-    "timeDay": 1080,
-    "timeWeek": 1104,
-    "timeMonth": 1023,
+    "timeDay": 1123,
+    "timeWeek": 1100,
+    "timeMonth": 1026,
     "timeYear": 1109,
     "dailyMinutesDown": {
-      "2025-04-10": 148,
+      "2025-04-10": 137,
       "2025-04-09": 451,
       "2025-04-08": 234,
       "2025-04-07": 123,
@@ -69,7 +69,8 @@
       "2025-04-01": 293,
       "2025-03-31": 766,
       "2025-03-30": 668,
-      "2025-03-29": 591
+      "2025-03-29": 635,
+      "2025-03-28": 64
     }
   }
 ]
