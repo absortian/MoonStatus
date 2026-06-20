@@ -6,15 +6,15 @@
     "slug": "no-vayas-descalzo",
     "status": "down",
     "uptime": "82.28%",
-    "uptimeDay": "94.08%",
-    "uptimeWeek": "98.04%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "54.17%",
-    "time": 976,
+    "uptimeDay": "90.53%",
+    "uptimeWeek": "97.53%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "54.16%",
+    "time": 974,
     "timeDay": 10955,
     "timeWeek": 4965,
     "timeMonth": 2449,
-    "timeYear": 940,
+    "timeYear": 938,
     "dailyMinutesDown": {
       "2025-10-31": 16,
       "2025-11-18": 126,
@@ -189,7 +189,7 @@
       "2025-11-21": 1440,
       "2026-05-08": 19,
       "2026-06-19": 196,
-      "2026-06-20": 1
+      "2026-06-20": 53
     }
   },
   {
@@ -197,17 +197,17 @@
     "url": "https://urbankingstore.com/",
     "icon": "https://urbankingstore.com/img/favicon.ico",
     "slug": "urban-king-store",
-    "status": "down",
+    "status": "up",
     "uptime": "82.56%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "54.33%",
+    "uptimeDay": "96.44%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "54.32%",
     "time": 731,
-    "timeDay": 10201,
-    "timeWeek": 3055,
-    "timeMonth": 1273,
-    "timeYear": 743,
+    "timeDay": 6964,
+    "timeWeek": 2770,
+    "timeMonth": 1250,
+    "timeYear": 742,
     "dailyMinutesDown": {
       "2025-11-18": 126,
       "2025-11-19": 62,
@@ -378,7 +378,8 @@
       "2025-11-24": 1440,
       "2025-11-23": 1440,
       "2025-11-22": 1440,
-      "2025-11-21": 1440
+      "2025-11-21": 1440,
+      "2026-06-20": 51
     }
   },
   {
