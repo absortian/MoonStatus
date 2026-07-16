@@ -6,9 +6,9 @@
     "slug": "no-vayas-descalzo",
     "status": "down",
     "uptime": "81.10%",
-    "uptimeDay": "99.91%",
+    "uptimeDay": "97.60%",
     "uptimeWeek": "26.39%",
-    "uptimeMonth": "45.59%",
+    "uptimeMonth": "45.51%",
     "uptimeYear": "49.67%",
     "time": 971,
     "timeDay": 397,
@@ -208,7 +208,7 @@
       "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 749,
-      "2026-07-16": 1
+      "2026-07-16": 35
     }
   },
   {
@@ -216,17 +216,17 @@
     "url": "https://urbankingstore.com/",
     "icon": "https://urbankingstore.com/img/favicon.ico",
     "slug": "urban-king-store",
-    "status": "down",
+    "status": "up",
     "uptime": "83.01%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.60%",
+    "uptimeDay": "97.69%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.53%",
     "uptimeYear": "54.29%",
-    "time": 797,
-    "timeDay": 10171,
-    "timeWeek": 3000,
-    "timeMonth": 2115,
-    "timeYear": 826,
+    "time": 798,
+    "timeDay": 7024,
+    "timeWeek": 2747,
+    "timeMonth": 2077,
+    "timeYear": 825,
     "dailyMinutesDown": {
       "2025-11-18": 126,
       "2025-11-19": 62,
@@ -400,7 +400,7 @@
       "2025-11-21": 1440,
       "2026-06-20": 51,
       "2026-06-26": 122,
-      "2026-07-16": 0
+      "2026-07-16": 33
     }
   },
   {
@@ -413,7 +413,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "77.15%",
+    "uptimeYear": "77.16%",
     "time": 1201,
     "timeDay": 873,
     "timeWeek": 953,
