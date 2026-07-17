@@ -5,16 +5,16 @@
     "icon": "https://novayasdescalzo.com/img/favicon.ico",
     "slug": "no-vayas-descalzo",
     "status": "down",
-    "uptime": "81.08%",
-    "uptimeDay": "80.74%",
+    "uptime": "81.07%",
+    "uptimeDay": "59.07%",
     "uptimeWeek": "26.39%",
-    "uptimeMonth": "44.96%",
-    "uptimeYear": "49.62%",
+    "uptimeMonth": "44.25%",
+    "uptimeYear": "49.56%",
     "time": 971,
-    "timeDay": 397,
-    "timeWeek": 332,
-    "timeMonth": 2126,
-    "timeYear": 943,
+    "timeDay": 39,
+    "timeWeek": 372,
+    "timeMonth": 2159,
+    "timeYear": 942,
     "dailyMinutesDown": {
       "2025-10-31": 16,
       "2025-11-18": 126,
@@ -208,7 +208,8 @@
       "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 749,
-      "2026-07-16": 277
+      "2026-07-17": 42,
+      "2026-07-16": 547
     }
   },
   {
@@ -223,10 +224,10 @@
     "uptimeMonth": "99.53%",
     "uptimeYear": "54.29%",
     "time": 798,
-    "timeDay": 7024,
-    "timeWeek": 2747,
-    "timeMonth": 2077,
-    "timeYear": 825,
+    "timeDay": 10261,
+    "timeWeek": 2995,
+    "timeMonth": 2122,
+    "timeYear": 826,
     "dailyMinutesDown": {
       "2025-11-18": 126,
       "2025-11-19": 62,
@@ -409,16 +410,16 @@
     "icon": "https://thefootplanet.com/wp-content/uploads/2023/05/FAVICON-300x299.png",
     "slug": "the-foot-planet",
     "status": "down",
-    "uptime": "90.47%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptime": "90.46%",
+    "uptimeDay": "78.32%",
+    "uptimeWeek": "96.90%",
+    "uptimeMonth": "99.29%",
     "uptimeYear": "77.20%",
     "time": 1197,
-    "timeDay": 622,
-    "timeWeek": 880,
-    "timeMonth": 918,
-    "timeYear": 1097,
+    "timeDay": 370,
+    "timeWeek": 862,
+    "timeMonth": 910,
+    "timeYear": 1099,
     "dailyMinutesDown": {
       "2025-10-02": 1425,
       "2025-10-01": 1440,
@@ -497,7 +498,6 @@
       "2025-07-20": 1440,
       "2025-07-19": 1440,
       "2025-07-18": 1440,
-      "2025-07-17": 1440,
       "2025-10-07": 1071,
       "2025-10-06": 1440,
       "2025-10-05": 1440,
@@ -505,7 +505,8 @@
       "2025-10-03": 1440,
       "2025-11-18": 207,
       "2025-12-08": 217,
-      "2026-07-16": 0
+      "2026-07-17": 42,
+      "2026-07-16": 270
     }
   }
 ]
